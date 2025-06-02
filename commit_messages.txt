@@ -1,0 +1,10 @@
+Add LM386M audio amplifier subcircuit
+Add 74LS95B 4-bit shift register subcircuit
+Add TL431 adjustable shunt regulator subcircuit
+Add ULN2004 Darlington transistor array subcircuit
+Add SN75160B IEEE-488 transceiver subcircuit
+Add 74VHC373-D octal transparent latch subcircuit
+Add CA3160A BiMOS op-amp subcircuit
+Add LM13600 dual OTA with buffer subcircuit
+Add CD4066B quad bilateral switch subcircuit
+Add SN74LVC257A quad 2:1 multiplexer subcircuit
